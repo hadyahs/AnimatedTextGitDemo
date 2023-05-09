@@ -3,10 +3,10 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(56, 5, 101);
+    background-color: orchid;
 }
 h1{
-    font-size: 5rem;
+    font-size: 13rem;
 }
 .letter {
     transition: color 1000ms;
